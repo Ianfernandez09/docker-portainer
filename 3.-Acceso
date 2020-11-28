@@ -1,0 +1,20 @@
+# Acceso
+El acceso se realiza a través de un navegador, indicando la dirección IP (en caso de ser remoto) o localhost (de forma local)
+en mi caso voy a hacerlo de forma local.
+
+![img](https://i.imgur.com/r7rjzhb.png)
+
+Como se puede comprobar, la primera vez que accedemos sigue un procedimiento de configuración, preguntando el usuario administrador
+y su contraseña.
+
+![img](https://i.imgur.com/4YbOICF.png)
+
+Luego nos pide que seleccionemos el modo de conexión que va a usar Portainer.Podremos seleccionar Local, Remoto, Agent o inclusio conectarse
+a Azure.En mi caso lo voy a hacer de manera local.
+
+![img](https://i.imgur.com/Wf1dIXH.png)
+
+Y aquí tendremos el Inicio de Portainer.
+
+
+
