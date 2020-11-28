@@ -1,6 +1,6 @@
 # Despliegue de Contenedores con Portainer
 
-_El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica
+El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica
 
 ## Índice:
 
