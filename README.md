@@ -16,4 +16,6 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 
 ## Referencias:
 
+Vídeo Youtuber Pelado Nerd: [Link](https://www.youtube.com/watch?v=TSot5AnS-mk)
+
 
